@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    height: 802px;
+    background-image: url('../img/main_bg.png'); 
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 38px 0px 61px 0px;
+}
+.logo{
+    display: block;
+    margin: 0 auto;
+}
+.logo_text{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.first_subheader{
+    color: #F9BF3B;
+    font-size: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 41px;
+
+}
